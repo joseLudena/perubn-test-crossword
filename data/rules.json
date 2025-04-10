@@ -1,0 +1,10 @@
+{
+   "rules": [
+     "Click on a cell to select it.",
+     "Type letters using your keyboard to fill in the words.",
+     "Use the arrow keys to move between cells.",
+     "Press Tab to switch between horizontal and vertical direction.",
+     "Correct words will lock automatically and appear in green."
+   ]
+ }
+ 

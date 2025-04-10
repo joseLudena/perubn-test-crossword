@@ -1,15 +1,11 @@
-const rules = [
-   "Click on a cell to select it",
-   "Type letters using your keyboard to fill in the words",
-   "Use the arrow keys to move between cells",
-   "Press Tab to switch between horizontal and vertical direction",
-   "Correct words will lock automatically and appear in green"
-];
+"use client";
+import { useUI } from "@/context/UIContext";
 
-const DropdownHelp = ({ status }) => {
+const DropdownHelp = () => {
+   const { helpDropdown, rules } = useUI();
 
    return (
-      <div className="mb-6 bg-gray-700/60 p-4 rounded-lg text-gray-300 text-sm" >
+      <div className={`${helpDropdown ? 'block' : 'hidden'} mb-6 bg-gray-700/60 p-4 rounded-lg text-gray-300 text-sm`} >
          <h2 className="text-cyan-400 font-semibold mb-2">
             How to play?
          </h2>
