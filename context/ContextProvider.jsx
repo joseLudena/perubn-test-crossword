@@ -1,10 +1,13 @@
+import { CrosswordProvider } from "./CrosswordContext";
 import { UIProvider } from "./UIContext";
 
 const AppProviders = ({ children }) => {
    return (
-      <UIProvider>
-         {children}
-      </UIProvider>
+      <CrosswordProvider>
+         <UIProvider>
+            {children}
+         </UIProvider>
+      </CrosswordProvider>
    );
 };
 

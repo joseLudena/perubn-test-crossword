@@ -1,0 +1,232 @@
+{
+   "puzzles": [
+      {
+         "word": "EARTHQUAKE",
+         "clue": "Violent seismic movement that affects the Earth's crust."
+      },
+      {
+         "word": "LAVA",
+         "clue": "Molten rock that erupts from volcanoes during an eruption."
+      },
+      {
+         "word": "WATER",
+         "clue": "Liquid element essential for life, composed of hydrogen and oxygen."
+      },
+      {
+         "word": "CURRENT",
+         "clue": "Movement of water or air in a determined direction."
+      },
+      {
+         "word": "VOLCANO",
+         "clue": "Mountain or chimney from which gases, ash, and lava emerge."
+      },
+      {
+         "word": "ROAR",
+         "clue": "Loud and continuous noise, like an explosion."
+      },
+      {
+         "word": "OCEAN",
+         "clue": "Large mass of saltwater that covers most of the Earth."
+      },
+      {
+         "word": "FLOOD",
+         "clue": "Overflow of water that covers normally dry land."
+      },
+      {
+         "word": "STORM",
+         "clue": "Meteorological phenomenon with rain, wind, and sometimes lightning."
+      },
+      {
+         "word": "SNOW",
+         "clue": "Atmospheric precipitation formed by ice crystals."
+      },
+      {
+         "word": "RIVER",
+         "clue": "Body of water flowing towards a lake or the sea."
+      },
+      {
+         "word": "FIELD",
+         "clue": "Expanse of land used for cultivation or grazing."
+      },
+      {
+         "word": "HURRICANE",
+         "clue": "Tropical storm of great intensity with very strong winds."
+      },
+      {
+         "word": "POND",
+         "clue": "Shallow body of water, generally isolated from others."
+      },
+      {
+         "word": "DESERT",
+         "clue": "Arid region with little vegetation due to water scarcity."
+      },
+      {
+         "word": "SUN",
+         "clue": "Central star of our solar system that provides light and heat."
+      },
+      {
+         "word": "TUNA",
+         "clue": "Large fish that inhabits the oceans."
+      },
+      {
+         "word": "WAVES",
+         "clue": "Undulating movements of water reaching the shore."
+      },
+      {
+         "word": "TORNADO",
+         "clue": "Air vortex that spins violently over the land."
+      },
+      {
+         "word": "SEISM",
+         "clue": "Sudden movement of the Earth's crust."
+      },
+      {
+         "word": "GARBAGE",
+         "clue": "Waste material or objects that no longer have use."
+      },
+      {
+         "word": "BLOOM",
+         "clue": "Action of a plant or tree producing flowers."
+      },
+      {
+         "word": "BREEZE",
+         "clue": "Mild wind blowing for a short time."
+      },
+      {
+         "word": "PLANET",
+         "clue": "Celestial body that orbits around a star."
+      },
+      {
+         "word": "ASTEROID",
+         "clue": "Rocky body orbiting the sun, usually small."
+      },
+      {
+         "word": "STAR",
+         "clue": "Celestial body emitting its own light due to nuclear reactions."
+      },
+      {
+         "word": "NEBULA",
+         "clue": "Cloud of gas and dust in space, where new stars are born."
+      },
+      {
+         "word": "BLACK HOLE",
+         "clue": "Region in space where gravity is so strong that nothing can escape."
+      },
+      {
+         "word": "HORIZON",
+         "clue": "Imaginary line where the sky seems to meet the land or sea."
+      },
+      {
+         "word": "AURORA",
+         "clue": "Luminous phenomenon produced by charged particles from the sun."
+      },
+      {
+         "word": "MOON",
+         "clue": "Natural satellite of Earth, visible at night."
+      },
+      {
+         "word": "BULL",
+         "clue": "Farm animal of great size, symbol of strength."
+      },
+      {
+         "word": "LIGHTNING",
+         "clue": "Electric discharge that occurs during a storm."
+      },
+      {
+         "word": "TEMPORAL",
+         "clue": "Meteorological phenomenon with storms, rain, and wind."
+      },
+      {
+         "word": "FAUNA",
+         "clue": "Set of animals inhabiting an area or region."
+      },
+      {
+         "word": "FLORA",
+         "clue": "Set of plants inhabiting a region."
+      },
+      {
+         "word": "BALLOON",
+         "clue": "Spherical object that rises in the air with gas."
+      },
+      {
+         "word": "SHARK",
+         "clue": "Carnivorous and dangerous fish inhabiting the oceans."
+      },
+      {
+         "word": "SNAKE",
+         "clue": "Reptile with a long body and no legs."
+      },
+      {
+         "word": "BIRD",
+         "clue": "Animal covered in feathers, capable of flight."
+      },
+      {
+         "word": "MOUNTAIN",
+         "clue": "Natural elevation of the earth, generally taller than a hill."
+      },
+      {
+         "word": "ABYSS",
+         "clue": "Very deep area in the sea or land."
+      },
+      {
+         "word": "MYSTERY",
+         "clue": "Something unknown that generates intrigue or doubt."
+      },
+      {
+         "word": "BAT",
+         "clue": "Nocturnal mammal with wings."
+      },
+      {
+         "word": "CORAL",
+         "clue": "Marine animal that forms reefs in the ocean."
+      },
+      {
+         "word": "REPTILE",
+         "clue": "Cold-blooded vertebrate animal that typically has scales."
+      },
+      {
+         "word": "JELLYFISH",
+         "clue": "Translucent marine animal with a bell-shaped body."
+      },
+      {
+         "word": "ECLIPSE",
+         "clue": "Occurrence when one celestial body moves into the shadow of another."
+      },
+      {
+         "word": "HURRICANE",
+         "clue": "Strong tropical storm with high winds and rain."
+      },
+      {
+         "word": "CLOUD",
+         "clue": "Collection of water vapor suspended in the sky."
+      },
+      {
+         "word": "RAIN",
+         "clue": "Precipitation of water droplets from clouds."
+      },
+      {
+         "word": "FLOOD",
+         "clue": "Overflow of water that covers dry land."
+      },
+      {
+         "word": "FOREST",
+         "clue": "Large area covered chiefly with trees."
+      },
+      {
+         "word": "ISLAND",
+         "clue": "Land surrounded by water."
+      },
+      {
+         "word": "TIDAL WAVE",
+         "clue": "Large ocean wave caused by an underwater earthquake."
+      },
+      {
+         "word": "VOLCANO",
+         "clue": "Mountain that erupts with lava and ash."
+      },
+      {
+         "word": "SUNSHINE",
+         "clue": "Light and warmth that comes from the sun."
+      }
+   ]
+}

@@ -7,9 +7,10 @@ const UIContext = createContext();
 export const UIProvider = ({ children }) => {
   const { rules } = rulesData;
   const [helpDropdown, setHelpDropdown] = useState(false);
+  const [modalCongratulations, setModalCongratulations] = useState(false);
 
   return (
-    <UIContext.Provider value={{ helpDropdown, setHelpDropdown, rules }}>
+    <UIContext.Provider value={{ helpDropdown, rules, modalCongratulations, setHelpDropdown, setModalCongratulations }}>
       {children}
     </UIContext.Provider>
   );
